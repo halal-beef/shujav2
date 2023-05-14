@@ -2,7 +2,7 @@
 source for shuja exposing video
 watch the video for context - https://www.youtube.com/watch?v=MsMfJwomTiw
 
-## the surce of this video came out before the haxberry source
+## the source of this video came out before the haxberry source
 
 here's the project files for the video.
 
